@@ -1,0 +1,6 @@
+description = "Test registry"
+name = "/home/pstey/TestRegistry"
+repo = "https://github.com/paulstey/TestRegistry.git"
+uuid = "0c8ba60c-e51a-11e9-021e-2d2b6a287c0c"
+
+[packages]
